@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 gabri gabri 4096 Apr 12 02:16 .
+drwxrwxr-x 4 gabri gabri 4096 Apr 12 02:15 ..
+drwxrwxr-x 7 gabri gabri 4096 Apr 12 02:15 .git
+-rw-rw-r-- 1 gabri gabri   30 Apr 12 02:16 new1.txt
+-rw-rw-r-- 1 gabri gabri    0 Apr 12 02:16 new2.txt
