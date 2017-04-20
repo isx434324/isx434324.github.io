@@ -13,6 +13,14 @@ layout: default
             {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
     </a>
 </span>
+
+   
+    <ul>
+        {% for xpost in site.tags[tag] %}
+            <a class="post-link" href="{{xpost.url | relative_url}}">{{ xpost.title | escape }}</a>
+        {% endfor %}
+    </ul>
+
 {% endfor %}
 
 </div>
