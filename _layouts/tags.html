@@ -6,16 +6,18 @@ layout: default
 
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
- <h2 align="center" >
-    <a style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+ <h2 >
+    <b style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
             {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-    </a>
+    </b>
   </h2>
   
+  <ul>
   {% for xpost in tag[1] %}
-            <a href="{{xpost.url | relative_url}}">{{ xpost.title | escape }}</a>
+            <li><a href="{{xpost.url | relative_url}}">{{ xpost.title | escape }}</a></li>
   {% endfor %}
-   
+  </ul>
+  
 {% endfor %}
 
 </div>

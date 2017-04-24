@@ -4,4 +4,4 @@ title: Musica
 permalink: /music_epocas/
 ---
 
-aqui mostrare la musica en diferents epocas y diferents estils provant i provant!!
+Te mostramos una breve descripcion de cada épocas y algunos de sus representantes mas importantes a traves de la historia de la musica.

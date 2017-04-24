@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: llista_tags
+title: Tags
 permalink: /llista_tags/
 ---
 

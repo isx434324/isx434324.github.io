@@ -11,13 +11,11 @@ layout: default
   <ul class="post-list">
 	{% assign leyendas = site.categories.legends | sort: 'title'  %}
     {% for post in leyendas %}
+      <ul>
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
       </li>
+      </ul>
     {% endfor %}
   </ul>
 
