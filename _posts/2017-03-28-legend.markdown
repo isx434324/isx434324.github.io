@@ -2,8 +2,12 @@
 layout: post
 title:  "Michael Jackson"
 categories: legends
+tags: michael
 ---
 
 
-Michael Joseph Jackson (Gary, Indiana, 29 de agosto de 1958 – Los Ángeles, 25 de junio de 2009), conocido en el mundo artístico como Michael Jackson, fue un cantante, compositor y bailarín estadounidense de música pop y sus variantes. Conocido como el «Rey del Pop», logró cerca de 80 récords por diferentes motivos y fue incluido en el Guinness World Records en numerosas ocasiones, por motivos entre los que destacan, entre otros, ser el artista musical más exitoso de todos los tiempos, con cerca de 750 millones de discos vendidos; el artista musical más premiado de la historia, con 405 galardones, entre ellos 18 premios Grammy; el vocalista más joven en liderar la lista de sencillos en los Estados Unidos, con 11 años de edad.
+Michael Joseph Jackson (Gary, Indiana, 29 de agosto de 1958 – Los Ángeles, 25 de junio de 2009).
+
+Conocido en el mundo artístico como Michael Jackson, fue un cantante, compositor y bailarín estadounidense de música pop y sus variantes.
+Conocido como el «Rey del Pop», logró cerca de 80 récords por diferentes motivos y fue incluido en el Guinness World Records en numerosas ocasiones, por motivos entre los que destacan, entre otros, ser el artista musical más exitoso de todos los tiempos, con cerca de 750 millones de discos vendidos; el artista musical más premiado de la historia, con 405 galardones, entre ellos 18 premios Grammy; el vocalista más joven en liderar la lista de sencillos en los Estados Unidos, con 11 años de edad.
 
