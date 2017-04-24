@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "tercer post"
-categories: musics
+title:  "another legend"
+categories: legends
 ---
  
 tercer prova per el segon feed del site

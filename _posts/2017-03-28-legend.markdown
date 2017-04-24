@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Michael Jackson"
-categories: musics
+categories: legends
 ---
 
 

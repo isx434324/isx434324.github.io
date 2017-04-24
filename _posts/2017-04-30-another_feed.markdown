@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "tercer post"
+title:  "legend 2000"
 date:   2017-03-30 11:38:13 +0200
-categories: posts
+categories: legends
 ---
  
-tercer prova per el segon feed del site
+mirem legend 2000
 
 

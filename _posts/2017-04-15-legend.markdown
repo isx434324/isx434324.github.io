@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "quart post"
-categories: musics
+categories: legends
 ---
  
 cuarta prova per el segon feed del site 444

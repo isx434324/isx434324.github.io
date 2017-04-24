@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  " post cinc" 
+title:  "legend ultim" 
 date:   2017-03-30 11:38:13 +0200
-categories: posts
+categories: legends
 ---
  
- ultima prova per el segon feed del sites post 5
+ legend ultim a vuere
