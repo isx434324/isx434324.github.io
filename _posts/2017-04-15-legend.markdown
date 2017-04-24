@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  "quart post"
+title:  "Paul McCartney (The Beatles)"
 categories: legends
 ---
  
-cuarta prova per el segon feed del site 444
+Sir James Paul McCartney, MBE (Liverpool, Inglaterra, 18 de junio de 1942) es un músico multi instrumentista, empresario, cantante, compositor, productor musical y activista pro-derechos de los animales.
+
+Obtuvo un reconocimiento mundial como miembro del grupo británico The Beatles, junto a George Harrison, John Lennon y Ringo Starr. Junto a su amigo John Lennon formó una de las parejas de compositores más influyentes de la música contemporánea, escribiendo conjuntamente un extenso catálogo de temas mundialmente conocidos. Tras abandonar el grupo, McCartney empezó una exitosa carrera en solitario y formó el grupo Wings con su mujer, Linda McCartney y el músico Denny Laine.
+
+McCartney ha trabajado también como compositor de música electrónica, clásica, temas para películas y también programas de televisión. Ha lanzado, además, un gran catálogo de canciones como artista en solitario, y ha formado parte de muchos proyectos musicales para organizaciones benéficas.

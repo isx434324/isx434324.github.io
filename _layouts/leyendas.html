@@ -9,8 +9,8 @@ layout: default
   {{ content }}
 
   <ul class="post-list">
-
-    {% for post in site.categories.legends %}
+	{% assign leyendas = site.categories.legends | sort: 'title'  %}
+    {% for post in leyendas %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

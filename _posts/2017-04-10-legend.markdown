@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "another legend"
+title:  "Freddie Mercury"
 categories: legends
 ---
  
-tercer prova per el segon feed del site
+Freddie Mercury (nombre de nacimiento: Farrokh Bulsara, Tanzania, 5 de septiembre de 1946 – †Londres, 24 de noviembre de 1991) fue un músico británico, conocido por haber sido el vocalista de la banda de rock Queen. Como intérprete, ha sido reconocido por su poderosa voz y extravagantes puestas en escena. Como compositor musical, escribió muchos éxitos, tales como "Bohemian Rhapsody", "Killer Queen", "Somebody to Love", "Don't Stop Me Now", "Crazy Little Thing Called Love", "Barcelona" y "We Are The Champions". Se estima que Queen llegó a vender 300 millones de álbumes en todo el mundo con Mercury como líder.
+Además de su trabajo con Queen, Freddie Mercury tuvo una carrera como solista y ocasionalmente fue productor y participó en eventos como músico invitado para otros artistas. Mercury, que era parsi y fue criado en la India, está considerado "la primera estrella de rock asiática en Gran Bretaña". Murió de una bronconeumonía complicada por el sida el 24 de noviembre de 1991, sólo un día después de comunicar oficialmente que padecía esta última enfermedad.
 
 

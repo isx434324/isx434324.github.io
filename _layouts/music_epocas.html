@@ -10,7 +10,8 @@ layout: default
 
 
   <ul class="post-list">
-    {% for post in site.categories.musics %}
+	{% assign musics = site.categories.musics | sort: 'last' %}
+    {% for post in musics %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

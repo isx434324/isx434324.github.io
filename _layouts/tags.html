@@ -5,19 +5,18 @@ layout: default
 <div>
 
 {% assign tags = site.tags | sort %}
-{% for tag in tags %}
- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
- <span class="cloud">
-    <a href="/tag/{{ tag | first | slugify }}/"
-        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+{% for tagi in tags %}
+ <span>
+    <a href="/tag/{{ tag | first | slugify }}/" 
+    style="font-size: {{ tagi | last | size  |  times: 4 | plus: 80  }}%">
+            {{ tagi[0] | replace:'-', ' ' }} ({{ tagi | last | size }})
     </a>
 </span>
 
-   
     <ul>
-        {% for xpost in site.tags[tag] %}
-            <a class="post-link" href="{{xpost.url | relative_url}}">{{ xpost.title | escape }}</a>
+        {% for xpost in site.tags[tagi]}} %}
+            <li> {{ xpost.url | absolute_url }} </li>
+            <a href="{{xpost.url | relative_url }}">{{ xpost.title | escape }}</a>
         {% endfor %}
     </ul>
 
